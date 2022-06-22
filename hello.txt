@@ -1,4 +1,4 @@
 
 hello git!hello delicia! 3333
-my next added text
+my next added text master test
 this is hotfix added
